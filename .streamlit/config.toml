@@ -1,0 +1,25 @@
+[theme]
+base = "light"
+primaryColor = "#2563EB"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F7F8FA"
+textColor = "#111827"
+linkColor = "#2563EB"
+borderColor = "#E5E7EB"
+showWidgetBorder = true
+showSidebarBorder = true
+font = "IBM Plex Sans Arabic:https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap, 'Segoe UI', Tahoma, Arial, sans-serif"
+headingFont = "IBM Plex Sans Arabic, 'Segoe UI', Tahoma, Arial, sans-serif"
+baseFontSize = 18
+baseRadius = "12px"
+buttonRadius = "14px"
+
+[client]
+toolbarMode = "minimal"
+showErrorDetails = "none"
+
+[server]
+maxUploadSize = 15
+
+[browser]
+gatherUsageStats = false

@@ -1,0 +1,4 @@
+streamlit>=1.52
+huggingface_hub>=0.30
+gTTS>=2.5
+pillow>=10.0
